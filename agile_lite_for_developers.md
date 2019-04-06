@@ -29,3 +29,7 @@ Let's stop overheating our engines. There's plenty of work to do out there. A pi
 ---
 If you would like to see more workplaces implement a system such as this, please star this repo on github and share on social media to increase visibility.
 Dave Sullivan 2019 dave.brian.sullivan@gmail.com
+
+=====================================================
+
+This is speaking the minds of real programmers, i had to fork it. Not proposing any change, it's on point.
